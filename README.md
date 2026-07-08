@@ -116,7 +116,7 @@ Conceito de aplicativo Android para colaboradores acessarem escala, contracheque
 
 * 📖 **BibleHelp** → memorização de escrituras em C#
 * 📝 **Journal** → diário interativo em C#
-* 🌐 **Portfolio Website** → [https://getportfoliohere.netlify.app/](https://getportfoliohere.netlify.app/)
+* 🌐 **Portfolio Website** → [https://gabrielldev.netlify.app/](https://gabrielldev.netlify.app/)
 
 ---
 
